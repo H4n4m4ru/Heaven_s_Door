@@ -1,0 +1,9 @@
+C:\Users\花丸\documents\visual studio 2013\Projects\Heaven_s_Door\bin\Release\Heaven_s_Door.exe.config
+C:\Users\花丸\documents\visual studio 2013\Projects\Heaven_s_Door\obj\Release\Heaven_s_Door.csprojResolveAssemblyReference.cache
+C:\Users\花丸\documents\visual studio 2013\Projects\Heaven_s_Door\obj\Release\Heaven_s_Door.Board.resources
+C:\Users\花丸\documents\visual studio 2013\Projects\Heaven_s_Door\obj\Release\Heaven_s_Door.Properties.Resources.resources
+C:\Users\花丸\documents\visual studio 2013\Projects\Heaven_s_Door\obj\Release\Heaven_s_Door.csproj.GenerateResource.Cache
+C:\Users\花丸\documents\visual studio 2013\Projects\Heaven_s_Door\bin\Release\Heaven_s_Door.exe
+C:\Users\花丸\documents\visual studio 2013\Projects\Heaven_s_Door\bin\Release\Heaven_s_Door.pdb
+C:\Users\花丸\documents\visual studio 2013\Projects\Heaven_s_Door\obj\Release\Heaven_s_Door.exe
+C:\Users\花丸\documents\visual studio 2013\Projects\Heaven_s_Door\obj\Release\Heaven_s_Door.pdb
